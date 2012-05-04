@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/technboltsjbehaveeclipseplugin.feature_1.0.7.201205041450.jar" id="technboltsjbehaveeclipseplugin.feature" version="1.0.7.201205041450">
+      <category name="technboltseclipseplugin.category"/>
+   </feature>
+   <category-def name="technboltseclipseplugin.category" label="JBehave Eclipse Integration"/>
+</site>
